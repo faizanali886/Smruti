@@ -40,7 +40,7 @@ export default function Home() {
 
   return (
     <div className="container mx-auto px-4">
-      <h1 className="text-2xl font-bold text-center my-6">Todo List</h1>
+      <h1 className="text-2xl font-bold text-center my-6">Faizan List</h1>
       <div className="flex flex-col items-center">
         <div className="mb-10">
           <input
